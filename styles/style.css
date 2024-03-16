@@ -63,6 +63,8 @@
   margin: 0 auto;
   margin-top: 96px;
   background-image: url("../images/cover.jpg");
+  background-position: center;
+  background-size: cover;
   padding-right: 50px;
   padding-top: 165px;
   padding-bottom: 51px;
@@ -150,7 +152,6 @@
   font-weight: 400;
   color: white;
   width: 1052px;
-  height: auto;
 }
 
 .lots__heading {
@@ -168,7 +169,6 @@
   flex-wrap: wrap;
   margin: auto;
   width: auto;
-  height: auto;
   margin-top: 27px;
   gap: 25px;
 }
